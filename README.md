@@ -1,6 +1,6 @@
 # Ecommerce Category Portfolio & Business Performance Analysis
 
-This project analyzes ecommerce product category performance using the **thelook_ecommerce** Google BigQuery public dataset.
+This project analyzes ecommerce product category performance using the **thelook_ecommerce** Google BigQuery Public Dataset.
 
 The objective of this analysis is to evaluate the structure of the product portfolio by examining revenue contribution, order distribution, pricing tiers, and operational stability across product categories.
 
@@ -46,6 +46,12 @@ SQL transformations were used to build structured analytical tables which were t
 - `category_portfolio_queries.sql` --SQL queries used to generate category-level performance metrics.
 - `category_portfolio_dashboard.png` -- Power BI dashboard visualizing category revenue distribution, order volume, pricing tiers, and operational stability.
 
+---
+
+## Dataset
+
+Source: Google BigQuery Public Dataset
+Dataset Name: thelook_ecommerce
 
 
 
